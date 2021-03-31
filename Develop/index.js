@@ -66,7 +66,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'Enter your project instructions and examples of it in use for Usage Section.',
+        message: 'Enter your project instructions and examples of it in use for Usage Section (if necessary).',
         // Validation not required if question is optional
     },
     // Select license
@@ -93,6 +93,12 @@ const questions = [
         // Validation not required if question is optional
     },
 ];
+
+inquirer
+    .prompt(questions)
+    .then(answers => {
+        console.log(answers);
+    });
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}

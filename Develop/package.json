@@ -4,11 +4,13 @@
   "description": "node application which creates a professional README based on user criteria",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "author": "Clifford Morin",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.5.2",
+    "nodemon": "^2.0.7",
+    "unquirer": "^1.0.0"
   }
 }
