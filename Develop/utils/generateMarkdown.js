@@ -98,7 +98,7 @@ ${renderLicenseSection(data.license)}
 ## Questions
 
   [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/${data.username}) 
-  [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-Click%20Me!-blue?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/morin-clifford-129888a9/)
+  [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/morin-clifford-129888a9/)
 
   Feel free to reach me at ${data.email} with any question regarding this project!
   `;
