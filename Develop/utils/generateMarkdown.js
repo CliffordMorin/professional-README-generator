@@ -63,6 +63,7 @@ ${renderLicenseBadge(data.license)}${renderLicenseLink(data.license)}
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Links](#links)
   * [License](#license)
   * [Contributions](#contributions)
   * [Tests](#tests)
@@ -76,6 +77,11 @@ ${renderLicenseBadge(data.license)}${renderLicenseLink(data.license)}
 ## Usage
 
   ${data.usage}
+
+ ## Links
+ 
+  * Application URL: (https://${data.username}.github.io/${data.repository}/)
+  * Github Repository URL: (https://github.com/${data.username}/${data.repository})
 
 ${renderLicenseSection(data.license)}
 
