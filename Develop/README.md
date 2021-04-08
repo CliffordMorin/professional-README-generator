@@ -1,11 +1,11 @@
 
-# Portfolio Website
+# My portfolio
 
 [![MIT](https://img.shields.io/badge/license-MIT-green?style=plastic)](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
 ## Description
 
-  I made a thing and it was fun and it is pretty good
+  Good website
 
 ## Table of Contents
   * [Installation](#installation)
@@ -19,11 +19,11 @@
   
 ## Installation
 
-  kjdfhgjkhsgf
+  npm i
 
 ## Usage
 
-  kjhsdfg
+  Scroll through website, portfolio design
 
  ## Links
  
@@ -36,11 +36,11 @@
 
 ## Contributions
 
-  hjsdgfw
+  Make a pull request
 
 ## Tests
 
-  kjhdgkjherghjkw
+  npm test
 
 ## Questions
 
