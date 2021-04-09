@@ -91,7 +91,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Choose your license for your project.',
-        // https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository
+        
         choices: ['apache-2.0', 'BSD 3-Clause "New" or "Revised"' ,'GNU General Public License v3.0', 'MIT']
         
     },

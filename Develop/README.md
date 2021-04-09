@@ -1,11 +1,11 @@
 
-# My portfolio
+# professional-README-generator
 
 [![MIT](https://img.shields.io/badge/license-MIT-green?style=plastic)](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
 ## Description
 
-  Good website
+  Creates a proffesional readme using node command line.
 
 ## Table of Contents
   * [Installation](#installation)
@@ -19,16 +19,16 @@
   
 ## Installation
 
-  npm i
+  
 
 ## Usage
 
-  Scroll through website, portfolio design
+  
 
  ## Links
  
-  * Application URL: (https://CliffordMorin.github.io/My-Portfolio-Website/)
-  * Github Repository URL: (https://github.com/CliffordMorin/My-Portfolio-Website)
+  * Application URL: (https://CliffordMorin.github.io/professional-README-generator/)
+  * Github Repository URL: (https://github.com/CliffordMorin/professional-README-generator)
 
 ## License
 
@@ -36,11 +36,11 @@
 
 ## Contributions
 
-  Make a pull request
+  Fork or request 
 
 ## Tests
 
-  npm test
+  npm i
 
 ## Questions
 
