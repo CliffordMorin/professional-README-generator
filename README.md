@@ -4,7 +4,7 @@
 
 ## Description
 
-  Creates a professional readme using node command line.
+  This is a command-line application that dynamically generates a professional README.md file from a user's input using inquirer.js. Languages used in this application are JavaScript ES6, inquirer.js, JSON, and node.js.
 
 ## Table of Contents
   * [Installation](#installation)
@@ -18,15 +18,19 @@
   
 ## Installation
 
-  
+Make sure to have node.js installed before running application:
+https://nodejs.org/en/download/package-manager/
 
 ## Usage
 
-  
+  The application will be invoked by using the following command:
+
+```bash
+node index.js
+```
 
  ## Links
  
-  * Application URL: (https://CliffordMorin.github.io/professional-README-generator/)
   * Github Repository URL: (https://github.com/CliffordMorin/professional-README-generator)
 
 ## License
@@ -35,7 +39,7 @@
 
 ## Contributions
 
-  Fork or request 
+  Fork, request, or contact me.
 
 ## Tests
 
